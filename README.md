@@ -20,5 +20,5 @@ In another terminal, run the hand raise detection script
 ```
 cd zed_ws
 source devel/setup.bash
-rosrun find_raised_hand find_raised_hand 
+rosrun find_raised_hand find_raised_hand.py
 ```
