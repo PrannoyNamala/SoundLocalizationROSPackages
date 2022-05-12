@@ -1,0 +1,26 @@
+Using device: iTalk-02 Analog Mono...
+Listening for wake word(s): porcupine
+Press ctrl+c to exit.
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Detected 'porcupine'
+Stopping...
