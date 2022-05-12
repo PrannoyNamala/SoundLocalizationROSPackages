@@ -8,7 +8,7 @@
 #### Software
 - ROSBerry Pi(Installation instructions linked [here](http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Melodic%20on%20the%20Raspberry%20Pi))
 - Matrix ODAS Repository(Installation instruction given below)
-- PicoVoice Wakeword Detection()Installation instructons given below)
+- PicoVoice Wakeword Detection(Installation instructons given below)
 
 ### Matrix ODAS Installation
 *Source: https://www.hackster.io/matrix-labs/direction-of-arrival-for-matrix-voice-creator-using-odas-b7a15b
